@@ -2,14 +2,14 @@
 ---
  
 ## 全网最便宜机场推荐
-### [https://github.com/vfdeclnc/cheap-vpn-recommendation](https://github.com/vfdeclnc/cheap-vpn-recommendation)
+### [https://github.com/tprc1949/cheap-vpn-recommendation](https://github.com/tprc1949/cheap-vpn-recommendation)
 ### [https://jc.zzmy.dpdns.org/](https://jc.zzmy.dpdns.org/)
 ---
 # zy-player_kkplayer_18-resource 
 
 ## 18-resource
 
-[https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_18_2023-08-22.json](https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_18_2023-08-22.json)
+[https://raw.githubusercontent.com/tprc1949/zy-player_kkplayer_18-resource/main/src_18_2023-08-22.json](https://raw.githubusercontent.com/tprc1949/zy-player_kkplayer_18-resource/main/src_18_2023-08-22.json)
 
 ---
 
@@ -25,11 +25,11 @@
 ### ZYPlayer [Telegram群: https://t.me/joinchat/NTT4Fhl-Y6YxLWXTlDIpYA](https://t.me/joinchat/NTT4Fhl-Y6YxLWXTlDIpYA)
 
 ---
-## KKPlayer [下载](https://github.com/npljy/KKPlayer-APP/releases)
+## KKPlayer [下载](https://dwz.xuehuayu.cn/P2uM8d)
 
 ### KKPlayer内置
 
-[https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_built_20240718.json](https://raw.githubusercontent.com/vfdeclnc/zy-player_kkplayer_18-resource/main/src_built_20240718.json)
+[https://raw.githubusercontent.com/tprc1949/zy-player_kkplayer_18-resource/main/src_built_20240718.json](https://raw.githubusercontent.com/tprc1949/zy-player_kkplayer_18-resource/main/src_built_20240718.json)
 
 ---
 ### KKPlayer分享码
